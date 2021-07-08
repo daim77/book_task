@@ -2,6 +2,7 @@
 **interview_task | book recommendation problem**
 
 Jupiter notebook is for engine developmnet and data analysis. You can find remarks for explanations.
+
 DATA MANIPULATION
 - Book title is written in one string format
 - Country is extracted from location
